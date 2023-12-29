@@ -1689,7 +1689,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.html</context>
           <context context-type="linenumber">123,125</context>
         </context-group>
-        <target state="needs-translation">Failed<x id="START_BLOCK_IF" equiv-text="@if (tasksService.failedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-danger ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.failedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <target state="translated">Mislukt<x id="START_BLOCK_IF" equiv-text="@if (tasksService.failedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-danger ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.failedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
       </trans-unit>
       <trans-unit id="8210778930307085868" datatype="html">
         <source>Complete<x id="START_BLOCK_IF" equiv-text="@if (tasksService.completedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.completedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></source>
@@ -1697,7 +1697,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.html</context>
           <context context-type="linenumber">131,133</context>
         </context-group>
-        <target state="needs-translation">Complete<x id="START_BLOCK_IF" equiv-text="@if (tasksService.completedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.completedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <target state="translated">Voltooid<x id="START_BLOCK_IF" equiv-text="@if (tasksService.completedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.completedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
       </trans-unit>
       <trans-unit id="3522801015717851360" datatype="html">
         <source>Started<x id="START_BLOCK_IF" equiv-text="@if (tasksService.startedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.startedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></source>
@@ -1705,7 +1705,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.html</context>
           <context context-type="linenumber">139,141</context>
         </context-group>
-        <target state="needs-translation">Started<x id="START_BLOCK_IF" equiv-text="@if (tasksService.startedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.startedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <target state="translated">Gestart<x id="START_BLOCK_IF" equiv-text="@if (tasksService.startedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.startedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
       </trans-unit>
       <trans-unit id="2341807459308874922" datatype="html">
         <source>Queued<x id="START_BLOCK_IF" equiv-text="@if (tasksService.queuedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.queuedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></source>
@@ -1713,7 +1713,7 @@
           <context context-type="sourcefile">src/app/components/admin/tasks/tasks.component.html</context>
           <context context-type="linenumber">147,149</context>
         </context-group>
-        <target state="needs-translation">Queued<x id="START_BLOCK_IF" equiv-text="@if (tasksService.queuedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.queuedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <target state="translated">In wachtrij<x id="START_BLOCK_IF" equiv-text="@if (tasksService.queuedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-secondary ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.queuedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
       </trans-unit>
       <trans-unit id="5404910960991552159" datatype="html">
         <source>Dismiss selected</source>
@@ -2398,7 +2398,7 @@
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">294,296</context>
         </context-group>
-        <target state="needs-translation">File Tasks<x id="START_BLOCK_IF" equiv-text="@if (tasksService.failedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-danger ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.failedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <target state="translated">Bestandstaken<x id="START_BLOCK_IF" equiv-text="@if (tasksService.failedFileTasks.length &gt; 0) {"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge bg-danger ms-2&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{tasksService.failedFileTasks.length}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
       </trans-unit>
       <trans-unit id="1534029177398918729" datatype="html">
         <source>GitHub</source>
@@ -4036,7 +4036,7 @@
           <context context-type="sourcefile">src/app/components/common/permissions-filter-dropdown/permissions-filter-dropdown.component.html</context>
           <context context-type="linenumber">56</context>
         </context-group>
-        <target state="needs-translation">Shared by me</target>
+        <target state="translated">Gedeeld door mij</target>
       </trans-unit>
       <trans-unit id="5151074932731293042" datatype="html">
         <source>Unowned</source>
@@ -4084,7 +4084,7 @@
           <context context-type="sourcefile">src/app/components/common/preview-popup/preview-popup.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="needs-translation">Error loading preview</target>
+        <target state="translated">Fout bij laden voorbeeld</target>
       </trans-unit>
       <trans-unit id="2984628903434675339" datatype="html">
         <source>Edit Profile</source>
@@ -4967,7 +4967,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.html</context>
           <context context-type="linenumber">241,244</context>
         </context-group>
-        <target state="needs-translation">Notes <x id="START_BLOCK_IF" equiv-text="@if (document?.notes.length) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge text-bg-secondary ms-1&quot;&gt;"/><x id="INTERPOLATION" equiv-text="ngth}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="}&lt;/a&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
+        <target state="translated">Notities <x id="START_BLOCK_IF" equiv-text="@if (document?.notes.length) {"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;badge text-bg-secondary ms-1&quot;&gt;"/><x id="INTERPOLATION" equiv-text="ngth}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="}&lt;/a&gt;"/><x id="CLOSE_BLOCK_IF" equiv-text="}"/></target>
       </trans-unit>
       <trans-unit id="8191371354890763172" datatype="html">
         <source>Enter Password</source>

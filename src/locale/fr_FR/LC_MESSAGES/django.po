@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-09 10:53-0800\n"
-"PO-Revision-Date: 2023-12-27 12:08\n"
+"PO-Revision-Date: 2023-12-28 23:14\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -425,11 +425,11 @@ msgstr "n'a pas de propriétaire"
 
 #: documents/models.py:458
 msgid "has custom field value"
-msgstr ""
+msgstr "a valeur d'un champ personnalisé"
 
 #: documents/models.py:459
 msgid "is shared by me"
-msgstr ""
+msgstr "est partagé par moi"
 
 #: documents/models.py:469
 msgid "rule type"
@@ -693,7 +693,7 @@ msgstr "accorder des droits de modification à ces groupes"
 
 #: documents/models.py:1021
 msgid "assign these custom fields"
-msgstr ""
+msgstr "assigner ces champs personnalisés"
 
 #: documents/models.py:1025
 msgid "consumption template"
@@ -1188,7 +1188,7 @@ msgstr ""
 
 #: paperless_mail/models.py:160
 msgid "Do not consume documents which entirely match this filename if specified. Wildcards such as *.pdf or *invoice* are allowed. Case insensitive."
-msgstr ""
+msgstr "N'importer que les documents qui correspondent intégralement à ce nom de fichier s'il est spécifié. Les caractères tels que *.pdf ou *facture* sont autorisés. La casse n'est pas prise en compte."
 
 #: paperless_mail/models.py:167
 msgid "maximum age"

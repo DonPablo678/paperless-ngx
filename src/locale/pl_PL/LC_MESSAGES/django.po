@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-09 10:53-0800\n"
-"PO-Revision-Date: 2023-12-28 12:09\n"
+"PO-Revision-Date: 2023-12-29 12:08\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -605,11 +605,11 @@ msgstr "pola niestandardowe"
 
 #: documents/models.py:844
 msgid "custom field instance"
-msgstr "przykład pola niestandardowego"
+msgstr "przypisane pole niestandardowe"
 
 #: documents/models.py:845
 msgid "custom field instances"
-msgstr "przykłady pól niestandardowych"
+msgstr "przypisanych pól niestandardowych"
 
 #: documents/models.py:893
 msgid "Consume Folder"

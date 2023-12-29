@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-09 10:53-0800\n"
-"PO-Revision-Date: 2023-12-19 20:45\n"
+"PO-Revision-Date: 2023-12-29 12:08\n"
 "Last-Translator: \n"
 "Language-Team: Croatian\n"
 "Language: hr_HR\n"
@@ -529,7 +529,7 @@ msgstr "korisnik"
 
 #: documents/models.py:681
 msgid "note"
-msgstr ""
+msgstr "bilješka"
 
 #: documents/models.py:682
 msgid "notes"
@@ -537,15 +537,15 @@ msgstr ""
 
 #: documents/models.py:690
 msgid "Archive"
-msgstr ""
+msgstr "Arhiva"
 
 #: documents/models.py:691
 msgid "Original"
-msgstr ""
+msgstr "Izvornik"
 
 #: documents/models.py:702
 msgid "expiration"
-msgstr ""
+msgstr "istječe"
 
 #: documents/models.py:709
 msgid "slug"
@@ -553,7 +553,7 @@ msgstr ""
 
 #: documents/models.py:741
 msgid "share link"
-msgstr ""
+msgstr "dijeli vezu"
 
 #: documents/models.py:742
 msgid "share links"
@@ -569,7 +569,7 @@ msgstr ""
 
 #: documents/models.py:756
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: documents/models.py:757
 msgid "Boolean"
@@ -581,7 +581,7 @@ msgstr ""
 
 #: documents/models.py:759
 msgid "Float"
-msgstr ""
+msgstr "Plutajući"
 
 #: documents/models.py:760
 msgid "Monetary"
@@ -589,11 +589,11 @@ msgstr ""
 
 #: documents/models.py:761
 msgid "Document Link"
-msgstr ""
+msgstr "Poveznica dokumenta"
 
 #: documents/models.py:773
 msgid "data type"
-msgstr ""
+msgstr "vrsta dokumenta"
 
 #: documents/models.py:781
 msgid "custom field"
@@ -693,7 +693,7 @@ msgstr ""
 
 #: documents/models.py:1021
 msgid "assign these custom fields"
-msgstr ""
+msgstr "dodijeliti ova prilagođena polja"
 
 #: documents/models.py:1025
 msgid "consumption template"
@@ -804,15 +804,15 @@ msgstr ""
 
 #: documents/templates/registration/password_reset_confirm.html:46
 msgid "Passwords did not match or too weak. Try again."
-msgstr ""
+msgstr "Lozinka nije točna ili je prekratka. Pokušajte ponovo."
 
 #: documents/templates/registration/password_reset_confirm.html:49
 msgid "New Password"
-msgstr ""
+msgstr "Nova lozinka"
 
 #: documents/templates/registration/password_reset_confirm.html:50
 msgid "Confirm Password"
-msgstr ""
+msgstr "Potvrdi lozinku"
 
 #: documents/templates/registration/password_reset_confirm.html:61
 msgid "Change my password"

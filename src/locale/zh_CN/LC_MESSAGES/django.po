@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-09 10:53-0800\n"
-"PO-Revision-Date: 2023-12-28 12:09\n"
+"PO-Revision-Date: 2023-12-29 12:08\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -425,7 +425,7 @@ msgstr "没有所有者"
 
 #: documents/models.py:458
 msgid "has custom field value"
-msgstr ""
+msgstr "添加自定义字段值"
 
 #: documents/models.py:459
 msgid "is shared by me"
